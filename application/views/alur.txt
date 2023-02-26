@@ -1,0 +1,28 @@
+ui========================
+atas
+    *input = adm_sitemap judul -> title | tagline = site_
+    *input= adm_sitemap(metakonten) = deskripsi (site_)
+    *input = adm_sitemap(keyword) = keyword (site_)
+Works Section // <section class="section site-portfolio">
+    *judul & tagline *input = adm_sitemap judul -> title | tagline = site_ point 1
+    *menu filter portofolio
+        *untuk potofolio upload file ukuran maksimal 490pixelx490pixel
+        *menu filter nanti bisa ditambahkan kategori sendiri
+        *default : photo product, Hotel dkk
+        *input kategori product
+Clients Section // <section class="section">
+    *menampilkan client yang sudah penah ditangangi misal hotel / product tertentu
+    *akan tersedia logo jiga dibutuhkan
+    *untuk potofolio upload file ukuran maksimal 258pixelx116pixel
+Services Section //<section class="section services">
+    *menampilkan kemampuan dan ketertarikan dari bidang yang digeluti
+Testimonials //<section class="section pt-0">
+    *testi dari client
+    *foto testi kalo ada hanya 500x500pixel
+    
+footer
+bawah
+
+dashboard=====================
+header
+topmenus
